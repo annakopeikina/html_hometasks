@@ -1,0 +1,12 @@
+button {
+    color: rgb(214, 11, 0);
+    background-color: rgb(34, 0, 255);
+    font-size: 44px;
+    text-decoration: dotted;
+    padding-bottom: 8%;
+    border: 17px dotted #ffffff;
+    border-radius: 12px;
+    background-image: url('1905.jpg');
+    background-size: cover;
+    cursor: pointer;
+}
